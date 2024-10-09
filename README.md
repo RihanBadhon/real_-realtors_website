@@ -20,12 +20,7 @@ This project is a real estate web application designed to help users browse and 
 ## Technologies Used
 - HTML
 - CSS
-Feel free to explore the project [here](your-github-pages-link).
 
-## How to Run the Project
-1. Clone the repository: `git clone https://github.com/yourusername/your-repo-name.git`
-2. Navigate to the project directory: `cd `
-3. Open `index.html` in your web browser.
 
 ## Acknowledgements
 - Special thanks to [any resources, tutorials, or mentors] who provided guidance during the development of this project.
